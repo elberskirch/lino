@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dominik.elberskirch@gmail.com"]
   spec.summary       = %q{lino is a simple cli application for running a jekyll blog}
   spec.description   = %q{lino is a simple cli application for running a jekyll blog. It helps you creating pages, posts and managing drafts. It assumes you already have a layout and your jekyll blog is set up.}
-  spec.homepage      = "github.com/elberskirch/lino"
+  spec.homepage      = "https://github.com/elberskirch/lino"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
