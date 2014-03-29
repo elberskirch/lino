@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'lino'
+
+Lino::CLI.start(ARGV)
